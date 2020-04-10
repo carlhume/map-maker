@@ -46,6 +46,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraDrag.cs" />
+     <Compile Include="Assets\Scripts\CameraZoomControler.cs" />
      <Compile Include="Assets\Scripts\ChangeScene.cs" />
      <Compile Include="Assets\Scripts\NetworkHexTileGenerator.cs" />
      <Compile Include="Assets\Scripts\PerlinNoiseHexTileGenerator.cs" />
