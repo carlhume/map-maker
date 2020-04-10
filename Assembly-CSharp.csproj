@@ -46,6 +46,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraDrag.cs" />
+     <Compile Include="Assets\Scripts\ChangeScene.cs" />
      <Compile Include="Assets\Scripts\PerlinNoiseHexTileGenerator.cs" />
      <Compile Include="Assets\Scripts\RandomHexTileGenerator.cs" />
  <Reference Include="UnityEngine">
