@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 471}
   m_MaxSize: {x: 14001, y: 14021}
   vertical: 0
-  controlID: 1499
+  controlID: 1183
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 471}
   m_MaxSize: {x: 10000, y: 14021}
   vertical: 1
-  controlID: 1500
+  controlID: 1184
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 1501
+  controlID: 1185
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -391,9 +391,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 603c0000
       m_LastClickedID: 0
-      m_ExpandedIDs: f4faffff
+      m_ExpandedIDs: 84b6ffff4ac7fffffad8ffff08d9ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -597,20 +597,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /home/carl/gamedev/map-maker
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ae470000
-    m_LastClickedID: 18350
-    m_ExpandedIDs: 00000000ae47000000ca9a3b
+    m_SelectedIDs: 20390000
+    m_LastClickedID: 14624
+    m_ExpandedIDs: 000000001a39000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -638,7 +638,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ae47000000ca9a3b
+    m_ExpandedIDs: 000000001a39000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
