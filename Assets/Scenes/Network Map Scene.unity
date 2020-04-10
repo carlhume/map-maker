@@ -196,6 +196,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 174437357}
+  - component: {fileID: 174437358}
   m_Layer: 0
   m_Name: Network Map Generator
   m_TagString: Untagged
@@ -217,6 +218,28 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &174437358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174437356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33d1b3bb1fcfb2226bd5b630801c8861, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  WaterHexTilePrefab: {fileID: 2018657036294736551, guid: e46bf0b8e57e8ae25840acd55bb9661d,
+    type: 3}
+  ForestHexTilePrefab: {fileID: 7338599446712475839, guid: afdc5eb23e2fbd7b79dba28cb69f2455,
+    type: 3}
+  PlainsHexTilePrefab: {fileID: 2919414067477013470, guid: 3f42d4d726e1102ebb0deeb5993fdc50,
+    type: 3}
+  DesertHexTilePrefab: {fileID: 6662486019447042636, guid: 367cdc28aee6d99ca867c58e9554adee,
+    type: 3}
+  MountainHexTilePrefab: {fileID: 3596928807526476646, guid: ff75a6821a4c0240ab0f26803f8686f2,
+    type: 3}
 --- !u!1 &309607057
 GameObject:
   m_ObjectHideFlags: 0
