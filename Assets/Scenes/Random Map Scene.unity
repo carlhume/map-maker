@@ -380,7 +380,7 @@ PrefabInstance:
     - target: {fileID: 1508799136159833392, guid: 16ffaddd7be530c40b37ca0f6493ba38,
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
-      value: Perlin Map Scene
+      value: Network Map Scene
       objectReference: {fileID: 0}
     - target: {fileID: 1508799137886399313, guid: 16ffaddd7be530c40b37ca0f6493ba38,
         type: 3}
