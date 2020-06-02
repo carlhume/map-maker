@@ -240,6 +240,8 @@ MonoBehaviour:
     type: 3}
   MountainHexTilePrefab: {fileID: 3596928807526476646, guid: ff75a6821a4c0240ab0f26803f8686f2,
     type: 3}
+  tileXOffset: 2
+  tileYoffset: 1.5
 --- !u!1 &309607057
 GameObject:
   m_ObjectHideFlags: 0
